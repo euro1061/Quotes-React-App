@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename={'/Quotes-React-App'}>
     <App />
   </BrowserRouter>,
   document.getElementById("root")
