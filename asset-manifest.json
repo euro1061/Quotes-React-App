@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Quotes-React-App/static/css/main.d06de43e.chunk.css",
-    "main.js": "/Quotes-React-App/static/js/main.08ae3787.chunk.js",
-    "main.js.map": "/Quotes-React-App/static/js/main.08ae3787.chunk.js.map",
+    "main.js": "/Quotes-React-App/static/js/main.316a9e1c.chunk.js",
+    "main.js.map": "/Quotes-React-App/static/js/main.316a9e1c.chunk.js.map",
     "runtime-main.js": "/Quotes-React-App/static/js/runtime-main.fe2f2c17.js",
     "runtime-main.js.map": "/Quotes-React-App/static/js/runtime-main.fe2f2c17.js.map",
     "static/js/2.9be01d54.chunk.js": "/Quotes-React-App/static/js/2.9be01d54.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.fe2f2c17.js",
     "static/js/2.9be01d54.chunk.js",
     "static/css/main.d06de43e.chunk.css",
-    "static/js/main.08ae3787.chunk.js"
+    "static/js/main.316a9e1c.chunk.js"
   ]
 }
